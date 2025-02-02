@@ -1,0 +1,2 @@
+# emailgenerator
+Generate infinite email
